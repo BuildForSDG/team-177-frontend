@@ -1,15 +1,17 @@
-barebones setup for JavaScript / Node projects replace this with a one-liner phrase describing this project or app
+Know your rights, end poverty.
 
 [![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
 
 
 ## About
 
-What is this project about. Ok to enrich here or the section above it with an image. 
+We seek to connect the stakeholders in the legal, legislative, administrative and financial fields to the most poverty-stricken
+in our society by coalescing them in one platform making it easier for knowledge to flow while preventing and reporting abuse of
+rights. 
 
 Once this repo has been setup on Codacy by the TTL, replace the above badge with the actual one from the Codacy dashboard, and add the code coverage badge as well. This is mandatory
 
-This is a simple JavaScript starter repo template for setting up your project. The setup contains
+The setup contains:
 
 - Jest: For runnung tests. We strongly recommend that JavaScript projects use Jest
 
@@ -17,7 +19,10 @@ This is a simple JavaScript starter repo template for setting up your project. T
 
 ## Why
 
-Talk about what problem this solves, what SDG(s) and SGD targets it addresses and why these are imoirtant
+We try to address the first SDG goal, No Poverty, by leveraging our country's high internet and smartphone penetration rate, to
+spread rights awareness, which an absence of leads to people being taken advantage of and missing out on opportunities to grow
+themselves, due to lack of knowledge or a loss of access to information. This is our way of doing our part, striving to
+alleviate poverty.
 
 ## Usage
  How would someone use what you have built, include URLs to the deployed app, service e.t.c when you have it setup
@@ -46,7 +51,7 @@ This starter uses [Parcel](https://parceljs.org/getting_started.html) as the bun
 
 ## Authors
 
-List the team behind this project. Their names linked to their Github, LinkedIn, or Twitter accounts should siffice. Ok to signify the role they play in the project, including the TTL and mentor
+github.com/4lexchi  
 
 ## Contributing
 If this project sounds interesting to you and you'd like to contribute, thank you!
