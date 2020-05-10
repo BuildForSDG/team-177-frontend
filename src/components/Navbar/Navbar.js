@@ -7,7 +7,7 @@ class Navbar extends Component{
         return(
             <div>
 
-<nav className="navbar navbar-light light-blue lighten-4 sticky-top" >
+<nav className="navbar navbar-light light-blue lighten-4 fixed-top" >
 
 
   <a className="navbar-brand" href="#">Home</a>
