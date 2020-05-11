@@ -24,7 +24,7 @@ To be updated
 
 ## Authors
 
-github.com/4lexchi  
+github.com/Robinkariuki,  github.com/4lexchi  
 
 ## Contributing
 If this project sounds interesting to you and you'd like to contribute, thank you!
