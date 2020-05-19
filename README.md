@@ -1,7 +1,6 @@
 Know your rights, end poverty.
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/640b8dcf41d64f8e94cffb399af089df)](https://app.codacy.com/gh/BuildForSDG/team-177-frontend?utm_source=github.com&utm_medium=referral&utm_content=BuildForSDG/team-177-frontend&utm_campaign=Badge_Grade_Settings)
-[![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
 
 
 ## About
