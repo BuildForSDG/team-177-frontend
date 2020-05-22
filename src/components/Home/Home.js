@@ -1,7 +1,7 @@
 import React,{Component} from 'react';
-import Navbar from '../Navbar/Navbar'
-import About from '../About/about';
-import ContactUs from '../ContactUs/contactUs';
+import Navbar from '../navbar/Navbar'
+import About from '../about/About';
+import ContactUs from '../contactUs/ContactUs';
 import Services from '../services/Services';
 
 
@@ -13,7 +13,6 @@ class Home extends Component{
              <About/>
              <Services/>
              <ContactUs/>
-        
             </div>
            
         )
