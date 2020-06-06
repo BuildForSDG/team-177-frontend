@@ -1,10 +1,10 @@
 import React from 'react';
 import Home from './components/Home/home'
 
-const app =() =>{
+const App =() =>{
     return(
         <Home/>
     )
 };
 
-export default app;
+export default App;
