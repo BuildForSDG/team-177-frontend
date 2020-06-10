@@ -18,7 +18,7 @@ alleviate poverty.
 
 ## Screenshot
 
-![frontend](https://user-images.githubusercontent.com/57438007/84054049-78452f80-a9bb-11ea-8a87-91c9465217ff.png)
+![frontend](https://user-images.githubusercontent.com/57438007/84212840-9c8e3280-aac7-11ea-8ea2-29198e23b132.png)
 
 ## Usage
 
