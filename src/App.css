@@ -1,0 +1,284 @@
+/*global*/
+
+body {
+    margin: 0;
+    padding: 0;
+      background-color: #CCFFFF; 
+    font: 18px Arial, Helvetica, sans-serif, Cambria;
+    min-width:630px;
+    width: auto !important;
+    width:630px;
+      }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+      background: #ffffe6;
+  }
+  
+  ul {
+    padding: 0;
+    list-style: none;
+  }
+  
+  form {/*
+    position: relative;
+    z-index: -1;*/
+    background: #d1bdb8;
+      margin: auto;
+      border: black solid;
+      padding: 5px 10px 25px 5px;
+      font-size: 16px;
+      line-height: 1.5em;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 #888888;
+    transition: 0.3s;
+  }
+  
+  form:hover {
+    box-shadow: 0 8px 16px 0 #888888;
+  }
+  
+  label {
+      display: inline-block;
+    width: 100%;
+    text-align: left;
+  }
+  
+  input {
+      width: 100%;
+  }
+  
+  select {
+    width: 100%;
+  }
+  
+  .button {
+      float: right;
+      background-color: #651c0b;
+      color: white;
+      width: 30%;
+  }
+  
+  .button:hover {
+    background: #daa595;
+  }
+  
+  /*
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+  }
+  */
+  
+  
+  /*to be used*/
+  
+  /*start*/
+  /*
+  
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .card {
+    margin: 1rem;
+    border: 1px solid gray;
+  }
+  
+  .welcome {
+      width: 50%;
+      margin: auto;
+  }
+  
+  @media screen and (min-width: 600px) {
+    .card {
+      flex: 1 1 calc(50% - 2rem);
+    }
+  }
+  
+  @media screen and (min-width: 900px) {
+    .card {
+      flex: 1 1 calc(33% - 2rem);
+    }
+  }
+  
+  #root {
+    margin: 0 auto;
+  }
+  */
+  /*end*/
+  
+  
+  /*basic*/
+  
+  #quicklinks {
+    position:  fixed;
+    top: 160px;
+    width: 22%;
+    font-size: 14px;
+    background-color: #92cac0;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 #888888;
+    transition: 0.3s;
+  }
+  
+  #quicklinks:hover {
+    box-shadow: 0 8px 16px 0 #888888;
+  }
+  
+  
+  header {
+    position: sticky;
+    position: -webkit-sticky; /* Safari */
+    top: 0px;
+    background: #c7c7e7;
+    min-height: 70px;
+    box-shadow: 0 4px 8px 0 #888888;
+    transition: 0.3s;
+  }
+  
+  header:hover {
+    box-shadow: 0 8px 16px 0 #888888;
+  }
+  
+  header li {
+    display: inline;
+    padding: 0 20px 0 20px;
+  }
+  header nav {
+    margin-top: 25px;
+    float: right;
+  }
+  
+  #main-box {
+    margin: 10px;
+  }
+  
+  footer {
+    text-align: center
+   }
+  
+  
+  /*index - home*/
+  
+  #box-home {
+    width: 50%;
+      margin: auto;
+  }
+  
+  #container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin: 0 auto;
+    padding: 9px;
+  }
+  
+  #card {
+    width: 46%;
+    margin: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 #888888;
+    transition: 0.3s;
+    }
+  
+    #card:hover {
+    box-shadow: 0 8px 16px 0 #888888;
+    }
+  
+  /*account*/
+  
+  #box-account {
+      width: 50%;
+      margin: auto;
+  }
+  
+  
+  /*about*/
+  
+  #box-about {
+      width: 50%;
+      margin: auto;
+  }
+  
+  
+  /*contactus*/
+  
+  #box-contactus {
+      width: 50%;
+      margin: auto;
+  }
+  
+  
+  /*financial*/
+  
+  #box-financial {
+      width: 50%;
+      margin: auto;
+  }
+  
+  
+  /*ideology*/
+  
+  #box-ideology {
+      width: 50%;
+      margin: auto;
+  }
+  
+  
+  /*legal*/
+  
+  #box-legal {
+      width: 50%;
+      margin: auto;
+  }
+  
+  
+  /*legislative*/
+  
+  #box-legislative {
+      width: 50%;
+      margin: auto;
+  }
+  
+  
+  /*ngao*/
+  
+  #box-ngao {
+      width: 50%;
+      margin: auto;
+  }
+  
+  
+  /*password*/
+ 
+  #box-password {
+      width: 50%;
+      margin: auto;
+  }
+  
+  /*report*/
+  
+  #box-report {
+      width: 50%;
+      margin: auto;
+  }
+  
+  
+  /*rights*/
+  
+  #box-rights {
+      width: 50%;
+      margin: auto;
+  }
+  
+  
+  
+  
+  
+  

@@ -14,6 +14,10 @@ spread rights awareness, which an absence of leads to people being taken advanta
 themselves, due to lack of knowledge or a loss of access to information. This is our way of doing our part, striving to
 alleviate poverty.
 
+## Screenshot
+
+![home](https://user-images.githubusercontent.com/57438007/84574914-63e5a600-adb2-11ea-82e9-6a5c8fd16b77.png)
+
 ## Usage
 
 Currently in development
@@ -24,7 +28,7 @@ To be updated
 
 ## Authors
 
-github.com/Robinkariuki,  github.com/4lexchi  
+**4lexchi** - [Github](https://github.com/4lexchi)  
 
 ## Contributing
 If this project sounds interesting to you and you'd like to contribute, thank you!
