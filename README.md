@@ -18,7 +18,7 @@ alleviate poverty.
 
 ## Screenshot
 
-![frontend](https://user-images.githubusercontent.com/57438007/84212840-9c8e3280-aac7-11ea-8ea2-29198e23b132.png)
+![home](https://user-images.githubusercontent.com/57438007/84574914-63e5a600-adb2-11ea-82e9-6a5c8fd16b77.png)
 
 ## Usage
 
@@ -30,7 +30,8 @@ To be updated
 
 ## Authors
 
-**Robinkariuki** - [Github](https://github.com/Robinkariuki),  **4lexchi** - [Github](https://github.com/4lexchi) 
+**4lexchi** - [Github](https://github.com/4lexchi)  
+
 
 ## Contributing
 If this project sounds interesting to you and you'd like to contribute, thank you!
